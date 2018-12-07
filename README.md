@@ -3,4 +3,4 @@ Two species face extinction through illegal fishing in the Gulf of California. P
 
 Both the scale of this illegal fishery and the resilience of the target species are captured by spatial data. INAPESCA, the federal fisheries service in Mexico, reports observations of totoaba by fishers and field biologists. Mexico's SEMAR, CONAPESCA, PROFEPA, the United States FWS and CBP, Hong Kong's AFCD, and the nonprofit Sea Shepherd have reported interdictions of totoaba products.
 
-<iframe width="500" height="500" seamless frameborder="0" scrolling ="no" src="https://amsteinkruger.github.io/tma_spat/"></iframe>
+<iframe width="1000" height="750" seamless frameborder="0" scrolling ="no" src="https://amsteinkruger.github.io/tma_spat/"></iframe>
