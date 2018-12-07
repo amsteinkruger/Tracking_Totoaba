@@ -3,7 +3,8 @@ Two species face extinction through illegal fishing in the Gulf of California. P
 
 Both the scale of this illegal fishery and the resilience of the target species are captured by spatial data. INAPESCA, the federal fisheries service in Mexico, reports observations of totoaba by fishers and field biologists from 2010 forward. Mexico's SEMAR, CONAPESCA, PROFEPA, the United States FWS and CBP, Hong Kong's AFCD, and the nonprofit Sea Shepherd have reported interdictions of totoaba products. The Environmental Investigation Agency, a nonprofit, compiled interdiction reports and maintains records for public reference and use.
 
-<iframe src="https://amsteinkruger.github.io/tma_sp/"></iframe>
+<iframe width="1000" height="750" scrolling ="no" src="https://amsteinkruger.github.io/tma_sp/"></iframe>
+
 
 While most interdictions occur at federal checkpoints on highways in Baja California, no high-level spatial trends support changes to enforcement strategies. Anecdotes suggest maw smugglers share methods with other organizations, notably regional drug cartels, leaving flows of processed totoaba maw out of reach for enforcement authorities. 
 
